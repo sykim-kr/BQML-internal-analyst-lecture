@@ -2,6 +2,7 @@
 
 Included:
 - `index.html`
+- `bqml-internal-analyst-training-deck-v5-polished.pptx`
 - `README.md`
 - `MANIFEST.md`
 - `.nojekyll`

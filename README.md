@@ -9,6 +9,7 @@ https://sykim-kr.github.io/BQML-internal-analyst-lecture/
 ## Contents
 
 - `index.html` — browser-based slide preview
+- `bqml-internal-analyst-training-deck-v5-polished.pptx` — PowerPoint v5 polished deck
 
 ## Notes
 
