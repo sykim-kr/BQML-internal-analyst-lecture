@@ -14,3 +14,8 @@ https://sykim-kr.github.io/BQML-internal-analyst-lecture/
 ## Notes
 
 This public preview is for design/flow review. Working notes, local environment files, credentials, and private project logs are not included.
+
+## Current accepted version
+
+- `bqml-internal-analyst-training-deck-v5-polished.pptx`
+- Accepted by SY님 on 2026-05-19.
