@@ -1,21 +1,13 @@
-# BQML Internal Analyst Lecture
+# BQML Internal Analyst Training — Final v11
 
-Public HTML preview for the BQML internal analyst methodology lecture.
+GitHub Pages: https://sykim-kr.github.io/BQML-internal-analyst-lecture/
 
-## GitHub Pages
+## Final files
 
-https://sykim-kr.github.io/BQML-internal-analyst-lecture/
+- HTML: `index.html`
+- PPTX: `bqml-internal-analyst-training-deck-v11-final-final.pptx`
+- Full package: `BQML-internal-analyst-training-FINAL_FINAL.zip`
 
-## Contents
-
-- `index.html` — browser-based slide preview
-- `bqml-internal-analyst-training-deck-v5-polished.pptx` — PowerPoint v5 polished deck
-
-## Notes
-
-This public preview is for design/flow review. Working notes, local environment files, credentials, and private project logs are not included.
-
-## Current accepted version
-
-- `bqml-internal-analyst-training-deck-v5-polished.pptx`
-- Accepted by SY님 on 2026-05-19.
+Version notes:
+- Based on SY edited v8 deck.
+- Includes design polish, End Of Document slide, R² formula and middle-school-level explanation.
